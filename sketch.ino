@@ -1,3 +1,12 @@
+
+// ============================================================
+// AutoGreen - Sistema de Monitoreo y Control de Invernadero
+// Archivo   : sketch.ino
+// Autor     : Byron Efrain Santizo Arana / Jefferson Alberto Soto Chigua
+// Curso     : Arquitectura de Computadoras I
+// Plataforma: Arduino UNO (ATmega328P, 16 MHz)
+// Simulador : Wokwi (https://wokwi.com/projects/465771822219307009)
+// ============================================================
 // Librería para manejar el sensor DHT22
 #include <DHT.h>
 
