@@ -2,7 +2,7 @@
 // ============================================================
 // AutoGreen - Sistema de Monitoreo y Control de Invernadero
 // Archivo   : sketch.ino
-// Autor     : Byron Efrain Santizo Arana / Jefferson Alberto Soto Chigua
+// Autor     : Byron Efrain Santizo Arana / Jefferson Alberto Soto Chigua / Naydelyn Mariaisis Montoya López
 // Curso     : Arquitectura de Computadoras I
 // Plataforma: Arduino UNO (ATmega328P, 16 MHz)
 // Simulador : Wokwi (https://wokwi.com/projects/465771822219307009)
